@@ -32,6 +32,10 @@ class Home extends StatelessWidget {
                 child: Text("Leilao"),
                 onPressed: (){Navigator.pushNamed(context, "/leilao");}
             ),
+            RaisedButton(
+                child: Text("IMC"),
+                onPressed: (){Navigator.pushNamed(context, "/imc");}
+            ),
         ],
       )),
     );

@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_app/imc.dart';
 import 'package:flutter_app/leilao.dart';
 import './column.dart';
 import './home.dart';
@@ -32,7 +33,8 @@ class _AppState extends State<App> {
           '/column': (context) => Col(),
           '/row': (context) => BtRow(),
           '/dbCounter': (context) => DbCounter(),
-          '/leilao': (context) => Leilao()
+          '/leilao': (context) => Leilao(),
+          '/imc':(context) => imc()
         }
     );
   }
