@@ -1,8 +1,12 @@
-Desafio A1-A3:
+Desafio A1:
 Altere o aplicativo para permitir incrementar ou decrementar o contador. Utilize dois botões
 organizados em coluna.
+
+Desafio A2:
 Altere a tela para permitir incrementar ou decrementar o contador. Utilize botões organizados em
 linha. Altere os ícones nos botões.
+
+Desafio A3:
 Altere a aplicação para apresentar dois contadores.
 
 Desafio A4
